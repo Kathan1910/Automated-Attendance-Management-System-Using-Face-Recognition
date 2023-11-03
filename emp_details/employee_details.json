@@ -1,0 +1,20 @@
+{
+    "dharmik patel": {
+        "id": "4",
+        "department": "AI & ML",
+        "role": "Sr. Data Scientist",
+        "joining_date": "2023/06/01"
+    },
+    "yash parekh": {
+        "id": "4",
+        "department": "Accountant",
+        "role": "Accountant",
+        "joining_date": "2023/01/03"
+    },
+    "darshan patel": {
+        "id": "5",
+        "department": "jahdj",
+        "role": "ajfdeda",
+        "joining_date": "2020/01/02"
+    }
+}
