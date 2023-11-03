@@ -95,10 +95,6 @@ The Automated Attendance Management System was created to streamline employee at
 - **Challenge:** Implementing automated report generation.
   - **Solution:** Utilized the schedule library to schedule daily report generation.
 
-### Conclusion
-
-The Automated Attendance Management System has been successfully completed, meeting all project objectives. It now provides an efficient solution for attendance tracking and reporting, enhancing overall productivity.
-
 ### Lessons Learned
 
 - Implementation of automation for daily tasks can significantly improve efficiency.
@@ -108,3 +104,7 @@ The Automated Attendance Management System has been successfully completed, meet
 
 - Explore additional features such as monthly and weekly reports.
 - Consider adding visualization tools to enhance reporting.
+
+### Conclusion
+
+The Automated Attendance Management System has been successfully completed, meeting all project objectives. It now provides an efficient solution for attendance tracking and reporting, enhancing overall productivity.
